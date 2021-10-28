@@ -11,7 +11,7 @@
 <p>Front End Developer autodidacta con un año de experiencia práctica en Desarrollo Web. Especializado en HTML, CSS, SASS/SCSS, JavaScript/ES6/ES2017, React. Metodología ágil Scrum.</p>
 <br />  
 
-<h2 align="center">Repositorios más destacables</h2>
+# Repositorios más destacables
 <br />
 
 <p align="center">
