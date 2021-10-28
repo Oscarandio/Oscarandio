@@ -16,9 +16,9 @@
 
 <p align="center">
   
-  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="450" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
+  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="400" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
-  <img height="200" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
