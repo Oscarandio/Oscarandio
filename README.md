@@ -16,7 +16,7 @@
 
 <p align="center">
   
-  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="500" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
+  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="450" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
   <img height="196" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
