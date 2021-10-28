@@ -18,21 +18,21 @@
   
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="300" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
-  <img height="150" align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
+  <img height="148" align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <img width="300" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img height="198" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="300" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img height="198" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
 </a>
   
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <img width="300" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
   
 <a href="https://github.com/YuriDevAT/instagram-clone">
-  <img height="198" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
   
 </p>
