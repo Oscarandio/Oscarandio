@@ -36,7 +36,7 @@
   
   <br />
   
-  <h2 align="center">Conocimientos en:</h2>
+# Conocimientos en:
 
   
   <p align="center">
@@ -54,7 +54,7 @@
   <br />
 
 
----
+# Estadísticas
 
 <br />
 <p align="center">
