@@ -43,13 +43,13 @@
 
   
   <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-  <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/react.png" alt="React" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com//" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Sass" width="40" height="40"/> </a>
+ <a href="https://github.com/Oscarandio" target="_blank"><img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/github_.png" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/visual-studio-code.png" /></a>
 
    </p>
   
