@@ -50,6 +50,12 @@
   <a href="https://sass-lang.com//" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Sass" width="40" height="40"/> </a>
  <a href="https://github.com/Oscarandio" target="_blank"><img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/github_.png" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/visual-studio-code.png" /></a>
+  
+    <br />
+
+  <a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_InDesign_CC_icon.svg" alt="Indesign" width="40" height="40"/> </a>
 
    </p>
   
