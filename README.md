@@ -17,7 +17,7 @@
 <p align="center">
   
   <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
-  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/thumbnail.jpg" /></a>
+  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/main.jpg" /></a>
   <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
   <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Luxury-fashion-accesories-store&theme=tokyonight" />
 </a>
