@@ -25,15 +25,10 @@
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
   <img height="148" align="" alt="Aplicacion del tiempo" title="Aplicacion del tiempo" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
-  <img width="300" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-  
-  <img width="300" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+  <a href="https://github.com/Oscarandio/Learn-sass">
+  <img width="300" src="https://raw.githubusercontent.com/Oscarandio/Learn-sass/main/public/thumbnail.jpg" /></a>
+  <a href="https://github.com/Oscarandio/Learn-sass">
+  <img alt="Learn Sass" title="Learn Sass" height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Learn-sass&theme=tokyonight" />
 </a>
   
 </p>
