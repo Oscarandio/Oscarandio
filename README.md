@@ -20,7 +20,7 @@
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
   <img height="148" align="" alt="Aplicacion del tiempo" title="Aplicacion del tiempo" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
-  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/thumbnail.jpg" />
   <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
   <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Luxury-fashion-accesories-store&theme=tokyonight" />
 </a>
