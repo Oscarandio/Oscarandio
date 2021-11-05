@@ -18,11 +18,11 @@
   
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="300" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
   <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
-  <img height="148" align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
+  <img height="148" align="" alt="Aplicacion del tiempo" title="Aplicacion del tiempo" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
 </a>
-  <img width="300" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+  <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
+  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Luxury-fashion-accesories-store&theme=tokyonight" />
 </a>
   <img width="300" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <a href="https://github.com/YuriDevAT/nikki-my-diary">
