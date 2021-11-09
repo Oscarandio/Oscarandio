@@ -8,7 +8,7 @@
 </p>
   
 
-<p>Front End Developer autodidacta con un año de experiencia práctica en Desarrollo Web. Especializado en HTML, CSS, SASS/SCSS, JavaScript/ES6, React. Metodología ágil Scrum. Me gusta mucho cuidar la User Experience (UX), lo cual me lleva a prestar gran atención a los pequeños detalles, algo que puedes comprobar si echas un vistazo a mis repositorios. Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con cierta soltura con el paquete de Adobe: Photoshop, Illustrator e Indesign. Tengo pensado continuar con la programación ya que me apasiona y le echo muchas horas para seguir aprendiendo.</p>
+<p>Front End Developer autodidacta con un año de experiencia práctica en Desarrollo Web. Especializado en HTML, CSS, SASS/SCSS, JavaScript/ES6, React. Metodología ágil Scrum.</p> <p>Me gusta mucho cuidar la User Experience (UX), lo cual me lleva a prestar gran atención a los pequeños detalles, algo que puedes comprobar si echas un vistazo a mis repositorios.</p> Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con cierta soltura con el paquete de Adobe: Photoshop, Illustrator e Indesign.</p><p> Tengo pensado continuar con la programación ya que me apasiona y le echo muchas horas para seguir aprendiendo.</p>
  
 
 # Repositorios más destacables
