@@ -9,29 +9,6 @@
   
 
 <p>Front-End Developer (Desarrollo Web) autodidacta. Especializado en HTML, CSS, SASS/SCSS, Vanilla JavaScript/ES6, React. Metodología ágil Scrum.</p> <p>Me gusta mucho cuidar la User Experience (UX), lo cual me lleva a prestar gran atención a los pequeños detalles, algo que puedes comprobar si echas un vistazo a mis repositorios.</p> Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con cierta soltura con el paquete de Adobe: Photoshop, Illustrator e Indesign.</p><p> Tengo pensado continuar con la programación ya que me apasiona y le echo muchas horas para seguir aprendiendo.</p>
- 
-
-# Repositorios más destacables
-
-
-<p align="center">
-  
-  <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
-  <img alt="Online Luxury Store" title="Online Luxury Store" width="300" src="https://raw.githubusercontent.com/Oscarandio/Luxury-fashion-accesories-store/main/images/main.jpg" /></a>
-  <a href="https://github.com/Oscarandio/Luxury-fashion-accesories-store">
-  <img height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Luxury-fashion-accesories-store&theme=tokyonight" />
-</a>
-  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo"><img width="300" src="https://raw.githubusercontent.com/Oscarandio/Aplicacion-del-tiempo/main/public/weather-app-barcelona.jpg" /></a>
-  <a href="https://github.com/Oscarandio/Aplicacion-del-tiempo">
-  <img height="148" align="" alt="Aplicacion del tiempo" title="Aplicacion del tiempo" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Aplicacion-del-tiempo&theme=tokyonight" />
-</a>
-  <a href="https://github.com/Oscarandio/Learn-sass">
-  <img width="300" src="https://raw.githubusercontent.com/Oscarandio/Learn-sass/main/public/thumbnail.jpg" /></a>
-  <a href="https://github.com/Oscarandio/Learn-sass">
-  <img alt="Learn Sass" title="Learn Sass" height="148" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscarandio&repo=Learn-sass&theme=tokyonight" />
-</a>
-  
-</p>
   
 # Conocimientos en:
 
