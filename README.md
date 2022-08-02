@@ -8,7 +8,16 @@
 </p>
   
 
-<p>Front-End Developer (Desarrollo Web) autodidacta. Especializado en HTML, CSS, SASS/SCSS, Vanilla JavaScript/ES6, React. Metodología ágil Scrum.</p> <p>Me gusta mucho cuidar la User Experience (UX), lo cual me lleva a prestar gran atención a los pequeños detalles, algo que puedes comprobar si echas un vistazo a mis repositorios.</p> Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con cierta soltura con el paquete de Adobe: Photoshop, Illustrator e Indesign.</p><p> Tengo pensado continuar con la programación ya que me apasiona y le echo muchas horas para seguir aprendiendo.</p>
+  <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
+                algo que puedes comprobar si echas un vistazo a <a href="#portfolio">mis repositorios</a>.</p>
+
+            <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
+                paquete de <strong>Adobe: Photoshop, Illustrator</strong> e <strong>Indesign</strong>.</p>
+
+            <p>En la actualidad continuo aprendiendo distintas tecnologías gracias a plataformas online como <a
+                    title="Platzi" href="https://platzi.com/p/rabadanoscar/">Platzi</a>, <a title="Udemy"
+                    href="https://www.udemy.com/">Udemy</a>, o <a
+                    href="https://www.frontendmentor.io/profile/Oscarandio">Frontend Mentor</href>.</p>
   
 # Conocimientos en:
 
