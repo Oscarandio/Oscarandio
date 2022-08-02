@@ -15,7 +15,7 @@
           
 
  <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
- algo que puedes comprobar si echas un vistazo a <a href="#portfolio">mis repositorios</a>.</p>
+ algo que puedes comprobar si echas un vistazo a mis repositorios.</p>
 
  <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
 paquete de <strong>Adobe: Photoshop, Illustrator</strong> e <strong>Indesign</strong>.</p>
