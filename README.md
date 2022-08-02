@@ -7,8 +7,14 @@
 
 </p>
   
+   <p><strong>Front-End Developer</strong> centrado en el framework <strong>React</strong> de
+                <strong>Javascript</strong> con dominio en <strong>MongoDB, NodeJs, Express.js, TypeScript,
+                    SASS</strong> y <strong>HTML</strong> .
+                Además de esto, estoy familiarizado con las librerías de <strong>Boostrap, Tailwind</strong> y, en menor
+                medida, <strong>MaterialUI.</strong>
+            </p>
 
-  <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
+            <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
                 algo que puedes comprobar si echas un vistazo a <a href="#portfolio">mis repositorios</a>.</p>
 
             <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
