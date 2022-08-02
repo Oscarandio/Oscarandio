@@ -7,20 +7,20 @@
 
 </p>
   
-   <p><strong>Front-End Developer</strong> centrado en el framework <strong>React</strong> de
+ <p><strong>Front-End Developer</strong> centrado en el framework <strong>React</strong> de
                 <strong>Javascript</strong> con dominio en <strong>MongoDB, NodeJs, Express.js, TypeScript,
                     SASS</strong> y <strong>HTML</strong> .
                 Además de esto, estoy familiarizado con las librerías de <strong>Boostrap, Tailwind</strong> y, en menor
-                medida, <strong>MaterialUI.</strong>
-            </p>
+                medida, <strong>MaterialUI.</strong>  </p>
+          
 
-            <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
-                algo que puedes comprobar si echas un vistazo a <a href="#portfolio">mis repositorios</a>.</p>
+ <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
+ algo que puedes comprobar si echas un vistazo a <a href="#portfolio">mis repositorios</a>.</p>
 
-            <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
-                paquete de <strong>Adobe: Photoshop, Illustrator</strong> e <strong>Indesign</strong>.</p>
-
-            <p>En la actualidad continuo aprendiendo distintas tecnologías gracias a plataformas online como <a
+ <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
+paquete de <strong>Adobe: Photoshop, Illustrator</strong> e <strong>Indesign</strong>.</p>
+  
+<p>En la actualidad continuo aprendiendo distintas tecnologías gracias a plataformas online como <a
                     title="Platzi" href="https://platzi.com/p/rabadanoscar/">Platzi</a>, <a title="Udemy"
                     href="https://www.udemy.com/">Udemy</a>, o <a
                     href="https://www.frontendmentor.io/profile/Oscarandio">Frontend Mentor</href>.</p>
