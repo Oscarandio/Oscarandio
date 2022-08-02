@@ -2,13 +2,13 @@
   <h1 align="center"><b>¡Hola, soy Oscar!</h1>
 </p>
 <p align="center">
-<a href="https://oscarandio.github.io/oscarrabadanportfolio/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
+<a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/rabadanoscar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 </p>
   
  <p><strong>Front-End Developer</strong> centrado en el framework <strong>React</strong> de
-                <strong>Javascript</strong> con dominio en <strong>MongoDB, NodeJs, Express.js, TypeScript,
+                <strong>Javascript</strong> con dominio en <strong>MongoDB, Node.js, Express, TypeScript,
                     SASS</strong> y <strong>HTML</strong> .
                 Además de esto, estoy familiarizado con las librerías de <strong>Boostrap, Tailwind</strong> y, en menor
                 medida, <strong>MaterialUI.</strong>  </p>
