@@ -12,17 +12,12 @@
                     SASS</strong> y <strong>HTML</strong> .
                 Además de esto, estoy familiarizado con las librerías de <strong>Boostrap, Tailwind</strong> y, en menor
                 medida, <strong>MaterialUI.</strong>  </p>
-          
 
- <p> Me gusta mucho cuidar la User Experience (UX), así como prestar gran atención a los pequeños detalles,
- algo que puedes comprobar si echas un vistazo a mis repositorios.</p>
-
- <p>Además del desarrollo web también me gusta el diseño gráfico, por lo que me manejo con soltura con el
-paquete de <strong>Adobe: Photoshop, Illustrator</strong> e <strong>Indesign</strong>.</p>
+ <p> Front-End Developer focused on the React Javascript framework. With domain in Sass, Tailwind, Bootstrap and HTML.Familiar with Typescript, NextJS, NodeJS, MongoDB, Express and MaterialUI.</p>
   
-<p>En la actualidad continuo aprendiendo distintas tecnologías gracias a plataformas online como <a
+<p>Currently I continue to learn different technologies thanks to online platforms such as <a
                     title="Platzi" href="https://platzi.com/p/rabadanoscar/">Platzi</a>, <a title="Udemy"
-                    href="https://www.udemy.com/">Udemy</a>, o <a
+                    href="https://www.udemy.com/">Udemy</a>, or <a
                     href="https://www.frontendmentor.io/profile/Oscarandio">Frontend Mentor</href>.</p>
   
 # Conocimientos en:
