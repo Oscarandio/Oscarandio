@@ -24,9 +24,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/react.png" alt="React" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com//" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Sass" width="40" height="40"/> </a>
- <a href="https://github.com/Oscarandio" target="_blank"><img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/github_.png" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/visual-studio-code.png" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Tailwind CSS" width="40" height="40"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/sass.png" alt="Sass" width="40" height="40"/> </a>
+
+
   
    </p>
 <p align="center">
