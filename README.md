@@ -19,8 +19,6 @@
 
   
   <p align="center">
-
-
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/react.png" alt="React" width="40" height="40"/> </a>
  
    </p>
