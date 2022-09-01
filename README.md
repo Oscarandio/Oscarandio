@@ -22,9 +22,9 @@
 <a href="https://expressjs.com/es/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/express.png" alt="Express" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/react.png" alt="React" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/node.png" alt="NodeJS" width="40" height="40"/> </a>
-   </p>
+
  
-  <p align="center">
+
   <a href="https://nextjs.org/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/nextjs.png" alt="NextJS" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/typescript.png" alt="Typescript" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/83a7ae8e8b32eaeb362903b3d29da40502354c58/images/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
