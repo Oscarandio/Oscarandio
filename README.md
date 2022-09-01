@@ -18,13 +18,10 @@
 ## Knowledge:
 
   <p align="center">
-<a href="https://www.mongodb.com/es" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/mongodb.jpg" alt="MongoDB" width="40" height="40"/> </a><p align="center">
+<a href="https://www.mongodb.com/es" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/mongodb.jpg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://expressjs.com/es/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/express.png" alt="Express" width="40" height="40"/> </a>
-  <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/main/images/react.png" alt="React" width="40" height="40"/> </a>
- <p align="center">
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://oscarandio.github.io/portfolio2022/images/node.png" alt="NodeJS" width="40" height="40"/> </a>
- 
    </p>
  
   <p align="center">
