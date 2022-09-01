@@ -34,3 +34,25 @@
 <a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_InDesign_CC_icon.svg" alt="Indesign" width="40" height="40"/> </a>
  </p>
+ 
+  ### Strong knowledge in:
+ ```
+ - React
+ - Javascript
+ - Tailwind CSS
+ - CSS
+ - HTML
+ - Git
+ ```
+
+ ### Basic knowledge in:
+ ```
+ - Typescript
+ - MongoDB
+ - Express
+ - NodeJS
+ - NextJS
+ - Bootstrap
+ - Sass
+ - MaterialUI
+ ```
