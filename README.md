@@ -43,6 +43,9 @@
  - CSS
  - HTML
  - Git
+ - Photoshop
+ - Illustrator
+ - InDesign
  ```
 
  ### Basic knowledge in:
