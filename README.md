@@ -1,12 +1,6 @@
  <h1 align="center"><b>¡Hello, I'm Oscar!</h1>
  <img alt="banner" src="https://github.com/Oscarandio/Oscarandio/blob/main/images/bannerLinkedin.png">
 
-<p align="center">
-<a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/rabadanoscar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
-</p>
-
  <p> Front-End Developer focused on the React Javascript framework. With domain in Sass, Tailwind, Bootstrap and HTML.Familiar with Typescript, NextJS, NodeJS, MongoDB, Express and MaterialUI.</p>
   
    <p>I really like to take care of the User Experience (UX), as well as pay great attention to small details, something that you can check if you take a look at my repositories.</p>
@@ -15,6 +9,12 @@
                     title="Platzi" href="https://platzi.com/p/rabadanoscar/">Platzi</a>, <a title="Udemy"
                     href="https://www.udemy.com/">Udemy</a>, or <a
                     href="https://www.frontendmentor.io/profile/Oscarandio">Frontend Mentor</href>.</p>
+                    
+                    <p align="center">
+<a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rabadanoscar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
+</p>
   
 ## Knowledge:
 
