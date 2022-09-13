@@ -1,4 +1,5 @@
  <h1 align="center"><b>¡Hello, I'm Oscar!</h1>
+ ![Banner](https://github.com/Oscarandio/Oscarandio/blob/main/images/bannerLinkedin.png)
 
 <p align="center">
 <a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
