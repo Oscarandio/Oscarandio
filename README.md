@@ -1,5 +1,6 @@
- <h1 align="center"><b>¡Hello, I'm Oscar!</h1>
  <img  align="center" alt="banner" src="https://github.com/Oscarandio/Oscarandio/blob/main/images/bannerLinkedin.png">
+ 
+ <h1 align="center"><b>¡Hello, I'm Oscar!</h1>
 
  <p> Front-End Developer focused on the React Javascript framework. With domain in Sass, Tailwind, Bootstrap and HTML.Familiar with Typescript, NextJS, NodeJS, MongoDB, Express and MaterialUI.</p>
   
