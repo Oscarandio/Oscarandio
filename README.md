@@ -1,4 +1,4 @@
- <h1 align="center"<h1><b>Óscar Rabadán<br>Frontend Developer</b></h1>
+<h2><b>Óscar Rabadán - Frontend Developer</b></h2>
  
    <p align="center">
 <a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
