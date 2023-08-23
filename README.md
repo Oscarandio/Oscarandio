@@ -38,7 +38,7 @@
   
  ### Websites:
   <a target="_blank" href="https://cloudhomes.es/">- cloudhomes.es</a><br>
-   <a target="_blank" href="https://www.lallavedeoro.com/new/">- www.lallavedeoro.com/new/</a><br>
+   <a target="_blank" href="https://www.lallavedeoro.com/new/">- lallavedeoro.com</a><br>
     <a target="_blank" href="https://globaldos.es/">- globaldos.es</a><br>
      <a target="_blank" href="compraventabarcelona.com/">- compraventabarcelona.com</a><br>
      
