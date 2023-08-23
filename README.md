@@ -15,6 +15,9 @@
                     title="Platzi" href="https://platzi.com/p/rabadanoscar/">Platzi</a>, <a title="Udemy"
                     href="https://www.udemy.com/">Udemy</a>, or <a
                     href="https://www.frontendmentor.io/profile/Oscarandio">Frontend Mentor</href>.</p>
+ 
+  ## Some real works:
+
                    
   
 ## Knowledge:
@@ -36,6 +39,3 @@
 <a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/es" target="_blank"> <img src="https://raw.githubusercontent.com/Oscarandio/Oscarandio/5589bf2e69799ec6bfb770cb17a35e0d27e3d2cd/images/Adobe_InDesign_CC_icon.svg" alt="Indesign" width="40" height="40"/> </a>
  </p>
- 
-  ## Some real works:
-
