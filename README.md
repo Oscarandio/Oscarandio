@@ -15,7 +15,7 @@
 </p>                    
  
   ## Some real works:
-<a target="_blank" href="https://balconsdegranollers.com/">- balconsdegranollers.com/</a>
+<a target="_blank" href="https://balconsdegranollers.com/">- balconsdegranollers.com</a>
                    
   
 ## Knowledge:
