@@ -38,14 +38,4 @@
  </p>
  
   ### Some real works:
- ```
- - React
- - Javascript
- - Tailwind CSS
- - CSS
- - HTML
- - Git
- - Photoshop
- - Illustrator
- - InDesign
- ```
+
