@@ -1,6 +1,6 @@
 <h2><b>Óscar Rabadán - Frontend Developer</b></h2>
 
- <p> Front-End Developer focused on the React Javascript framework. With domain in Sass, Tailwind, Bootstrap and HTML.Familiar with Typescript, NextJS, NodeJS, MongoDB, Express and MaterialUI.</p>
+ <p> Front-End Developer focused on the React Javascript framework. With domain in Sass, Tailwind, Bootstrap and HTML. Familiar with Typescript, NextJS, NodeJS, MongoDB, Express and MaterialUI.</p>
 
    <p>
 <a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
