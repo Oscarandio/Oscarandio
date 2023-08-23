@@ -1,6 +1,4 @@
- <img  align="center" alt="banner" src="https://github.com/Oscarandio/Oscarandio/blob/main/images/bannerLinkedin.png">
- 
- <h1 align="center"><b>¡Hello, I'm Oscar!</h1>
+ <h1 align="center"><b>Óscar Rabadán<br>Frontend Developer<h1>
  
    <p align="center">
 <a href="https://oscarandio.github.io/portfolio2022/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio Web" /></a>&nbsp;
