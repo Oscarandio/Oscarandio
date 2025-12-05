@@ -1,8 +1,3 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/74160280" />
-   <h3 align="center">Óscar Rabadán</h3>
-</p>
-
 ### 📹 Proyectos personales en los que trabajo
 
 <a href='https://bcnrunhub.com/' target='_blank'>
